@@ -1,4 +1,4 @@
-nyo Android Challenge #
+# Onyo Android Challenge #
 
 The main goal of the challenge is to create an Android app to fetch the API information of companies and categories and show them according to the provided screenshots.
 
