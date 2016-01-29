@@ -35,7 +35,7 @@ Company list: [http://api.staging.onyo.com/v1/mobile/brand/1/company](http://api
 ### **Submission Process** ###
 The candidate must implement the app and send a Pull Request to this repository with the solution.
 
-The Pull request process works on either of this ways:
+The Pull request process works on either of these ways:
 
 1. The candidate forks the repository (should not clone it directly)
 2. Works on the code using the forked repository.
@@ -43,7 +43,7 @@ The Pull request process works on either of this ways:
 4. Using the GitHub interface, send the pull request.
 5. Notify us by e-mail.
 
-Or if you want some privacy with your code:
+Or if you want some privacy to your code:
 
 1. Create a BitBucket private repository.
 2. Commit and push changes to it.
